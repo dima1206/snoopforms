@@ -1,3 +1,7 @@
+# This fork is purely for academic purposes
+
+Don't expect to find anything interesting here
+
 <p align="center">
 <a href="https://github.com/formbricks/snoopforms">
     <img src="https://user-images.githubusercontent.com/72809645/172191504-808da997-025b-4b1f-90c0-b8ef658af2dd.svg" alt="Logo" width="500">
